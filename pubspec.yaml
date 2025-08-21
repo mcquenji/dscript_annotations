@@ -1,0 +1,15 @@
+name: dscript_annotations
+description: Provides annotations to mark targets for [dscript_gen](https://pub.dev/packages/dscript_gen).
+version: 1.0.0
+repository: https://github.com/mcquenji/dscript_annotations
+
+environment:
+  sdk: ^3.8.1
+
+# Add regular dependencies here.
+dependencies:
+  meta: ^1.17.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
